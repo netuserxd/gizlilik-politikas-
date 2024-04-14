@@ -1,9 +1,34 @@
-1-) Nexus Bot olarak, veri sorumlusu olarak bu kişisel ve kişisel koruma politikası ile; hangi kişisel eğitimlerin hangi amaçla işleneceği, işlenen verilerin kimlerle ve neden paylaşılabileceği, veri yöntemimiz ve yasal sebeplerimiz ile; işlenmiş verilerinizle ilgili haklarınız nelerdir Geleceğinizi aydınlatmayı amaçlıyoruz.
+# Gizlilik Politikası | Nexus Bot
+1. Veri Saklama İlkesi
+• Nexus, kullanıcılar ve sunucularla ilgili verileri varsayılan olarak saklamamaktadır.
 
-2-) Saklanılan veriler: – Kullanıcı kimliği – Sunucu adı – Sunucu Kimliği – Sunucu Üye Sayısı
+2. Sunucu Yönetme İzni Kullanımı:
+• Sunucu yönetme iznine sahip bir kullanıcı, botun ön-ekini değiştirmek için gerekli komutu kullandığında, botun veritabanında sunucuya özel bir Discord Kimliği (örneğin, 983687751209725993) saklanacaktır.
 
-3-) Verileriniz, erişimi şifreleme ile kısıtlanmış bir veritabanında tutulur. Sorularınız için bot geliştiricileri ile iletişime geçebilirsiniz. https://discord.gg/roderika
+• Bu veri, botun sorunsuz bir şekilde devam etmesini sağlamak amacıyla kullanılır.
 
-4-) – Kişisel verilerin eksik veya yanlış işlenmesi halinde düzeltilmesini isteme – Kişisel verilerin silinmesini veya yok edilmesini talep etme
+3. Ayarlanabilir Komutlar İçinde Geçerli Veri Saklaması:
+• Veri saklaması, sadece ayarlanabilir komutlar kullanıldığında geçerli olup, sunucuyla ilgili başka hiçbir veri depolanmamaktadır.
 
-5-) Hiçbir çekinme duymadan https://discord.gg/roderika destek sunucusuna gelip soru sorabilirsiniz.
+4. Kullanıcıya Özel Veri Saklamama:
+• Nexus, kullanıcılara ait özel verileri saklamaz; önek verileri sadece botun çalışması için geçici olarak kullanılır ve paylaşılmaz.
+
+5. Önek Verilerinin Kullanımı ve Paylaşımı:
+• Önek verileri, yalnızca botun düzgün çalışması için saklanır ve başka herhangi bir amaçla kullanılmaz veya paylaşılmaz.
+
+6. Veri Depolama Yeri ve Süresi:
+• Veriler, ücretli Sanal Özel Sunucularda saklanır ve bu veriler 30 günden az bir süreyle muhafaza edilir.
+
+• Kullanıcı verileri özel sanal sunucuda güvenli bir şekilde korunmaktadır.
+
+7. Veri Erişimi ve Düzeltme Hakları:
+• Kullanıcılar, kendi verilerine istek üzerine erişim sağlayabilir ve yanlış bir veri tespit edilirse düzeltme talebinde bulunabilirler.
+
+8. Veri Silme ve İşleme Kısıtlama Hakları:
+• Kullanıcılar, kişisel verilerini tamamen silme hakkına sahiptir ve belirli durumlar altında verilerinin kullanımını kısıtlayabilirler.
+
+9. Veri İtiraz Hakları:
+• Kullanıcılar, kişisel çıkarlarını içeren verilerin kullanımına itiraz etme hakkına sahiptirler.
+
+10. İletişim ve Talep Hakkı:
+• Verilerin silinmesi talebi için netuserxd (983687751209725993) Discord hesabına ulaşabilir veya destek sunucusunda talep açabilirsiniz.
