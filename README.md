@@ -1,6 +1,6 @@
-# Gizlilik Politikası | Nexus Bot
+# Gizlilik Politikası | Clever Bot
 1. Veri Saklama İlkesi
-• Nexus, kullanıcılar ve sunucularla ilgili verileri varsayılan olarak saklamamaktadır.
+• Clever, kullanıcılar ve sunucularla ilgili verileri varsayılan olarak saklamamaktadır.
 
 2. Sunucu Yönetme İzni Kullanımı:
 • Sunucu yönetme iznine sahip bir kullanıcı, botun ön-ekini değiştirmek için gerekli komutu kullandığında, botun veritabanında sunucuya özel bir Discord Kimliği (örneğin, 983687751209725993) saklanacaktır.
